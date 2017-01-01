@@ -1,0 +1,11 @@
+plugins:
+  topic_transfer_enabled:
+    default: true
+  github_access_token:
+    default: ''
+  github_repo_name:
+    default: ''
+  github_enterprise_enabled:
+    default: false
+  github_enterprise_hostname:
+    default: ''

@@ -1,0 +1,7 @@
+en:
+  site_settings:
+    topic_transfer_enabled: "Turn on plugin features"
+    github_access_token: "Your GitHub access token"
+    github_repo_name: "GitHub repository name (username/repo_name)"
+    github_enterprise_enabled: "Using GitHub Enterprise"
+    github_enterprise_url: "Your GitHub Enterprise hostname(full url, do not enter slash at last)"
